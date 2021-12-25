@@ -38,7 +38,7 @@ car::~car(){}
 int main()
 {
     
-    //black black1;
+    
     car car1;
 
 
